@@ -70,7 +70,7 @@
 <h2 align="center">📊 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-urge&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurge123&layout=compact&theme=radical">
 </p>
 
 ---
@@ -78,7 +78,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-urge&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderge123&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
