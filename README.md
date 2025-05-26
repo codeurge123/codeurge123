@@ -1,2 +1,2 @@
 Hey , This is ME 
-<h1>CODE -> EAT -> SLEEP -> REPEAT</h1>
+<h1 style="align-item: center">CODE -> EAT -> SLEEP -> REPEAT</h1>
