@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm code_urge 👋</h1>
+<h1 align="center">Hi there, I'm Yash Bansal (code_urge) 👋</h1>
 
 <h3 align="center">💻 Code → 🍽️ Eat → 😴 Sleep → 🔁 Repeat</h3>
 
